@@ -1,0 +1,41 @@
+{
+  "name": "flybuybackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarica-github/web-api-batch-28---back-end-sanju133.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarica-github/web-api-batch-28---back-end-sanju133/issues"
+  },
+  "homepage": "https://github.com/softwarica-github/web-api-batch-28---back-end-sanju133#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "braintree": "^3.11.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.4",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.19",
+    "npm": "^8.14.0",
+    "paypal-rest-sdk": "^1.8.1",
+    "query-string": "^7.1.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "supertest": "^6.2.4"
+  }
+}
